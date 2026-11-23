@@ -177,7 +177,7 @@ export default function About() {
             <div className="space-y-6">
               <div className="p-8 bg-brand-900 text-white rounded-2xl">
                 <div className="text-[10px] tracking-widest-caps text-white/50 mb-2">Founder &amp; Managing Director</div>
-                <h3 className="text-2xl font-medium tracking-tight-display mb-3">Shalini Bhadoria</h3>
+                <h3 className="text-2xl font-medium tracking-tight-display mb-3">Shalini Bhadouria</h3>
                 <p className="text-sm text-white/75 leading-relaxed mb-6">
                   Shalini directs executive operations, client engagements, and technical governance at Infriva Solutions. Over the past five years, she has guided architecture for custom booking platforms, multi-channel WhatsApp Cloud API ecosystems, and full-stack digital infrastructure for hospitality, travel, SaaS, and service enterprises across India and global markets.
                 </p>

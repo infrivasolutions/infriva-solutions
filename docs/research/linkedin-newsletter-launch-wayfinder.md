@@ -4,7 +4,7 @@
 **Status:** **LOCKED & READY FOR LAUNCH**  
 **Selected Architectural Model:** **Model A: The Complementary Dual-Column Framework**  
 **Channels:**
-1. **MD's Profile (Shalini Bhadoria):** *The Revenue Architecture* (Executive Strategy & ROI)
+1. **MD's Profile (Shalini Bhadouria):** *The Revenue Architecture* (Executive Strategy & ROI)
 2. **Company Page (Infriva Solutions):** *The Full-Funnel Architecture* (Deep Systems & Engineering)  
 **Destination:** Launch dual bi-weekly LinkedIn Newsletters converting Infriva's 26 engineering publications into 1,000+ targeted C-level and engineering subscribers within 90 days, generating qualified inbound pipeline for Infriva's Core Engineering and CRM practices.  
 **Labels:** `wayfinder:map`, `seo:plan`, `editorial:distribution`  
@@ -16,7 +16,7 @@
 
 ```
 ┌───────────────────────────────────────────────┬───────────────────────────────────────────────┐
-│ MD'S PROFILE (Shalini Bhadoria)               │ COMPANY PAGE (Infriva Solutions)              │
+│ MD'S PROFILE (Shalini Bhadouria)               │ COMPANY PAGE (Infriva Solutions)              │
 │ Publication: "The Revenue Architecture"       │ Publication: "The Full-Funnel Architecture"   │
 ├───────────────────────────────────────────────┼───────────────────────────────────────────────┤
 │ • Targeted at: CEOs, MDs, Founders, Investors │ • Targeted at: CTOs, VPs, Product & Growth    │
@@ -28,7 +28,7 @@
 ```
 
 ### Decisions So Far:
-- [x] **Host Selection:** Dual-Anchor Strategy across Shalini Bhadoria (MD) and Infriva Solutions (Company Page).
+- [x] **Host Selection:** Dual-Anchor Strategy across Shalini Bhadouria (MD) and Infriva Solutions (Company Page).
 - [x] **Naming Locked:**
   - MD Page: *The Revenue Architecture*
   - Company Page: *The Full-Funnel Architecture*
@@ -89,7 +89,7 @@
    - Upload `300x300` icon and `1280x720` Blueprint cover.
    - Paste Company Edition #1 copy.
 2. **MD Profile Setup:**
-   - Go to Shalini Bhadoria's profile $\rightarrow$ *Write article* $\rightarrow$ *Manage* $\rightarrow$ *Create newsletter*.
+   - Go to Shalini Bhadouria's profile $\rightarrow$ *Write article* $\rightarrow$ *Manage* $\rightarrow$ *Create newsletter*.
    - Title: **The Revenue Architecture**.
    - Upload `300x300` icon and `1280x720` Champagne cover.
    - Paste MD Edition #1 copy.

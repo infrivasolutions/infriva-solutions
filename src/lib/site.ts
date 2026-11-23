@@ -51,7 +51,7 @@ export const AGENCY_NAP = {
     "https://github.com/Arpan-Tyagi/infriva-solutions",
   ],
   founder: {
-    name: "Shalini Bhadoria",
+    name: "Shalini Bhadouria",
     jobTitle: "Founder & Managing Director",
   },
   ceo: {
